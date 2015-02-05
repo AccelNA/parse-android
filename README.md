@@ -1,2 +1,2 @@
 # parse-android
-Demo App with Parse MBaaS. 
+Demo Android App with Parse MBaaS. 
